@@ -1,6 +1,5 @@
 # DocMind-RAG-Powered-Document-Intelligence-Chatbot
 
-# DocMind — RAG-Powered Document Intelligence Chatbot
 
 DocMind is a Retrieval-Augmented Generation (RAG) chatbot that lets you chat with your documents. It searches your local files first, falls back to web search when needed, and remembers your conversation throughout the session.
 
